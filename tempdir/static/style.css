@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    align-items: center;
+}
+    
+.login-form {
+    width: 350px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position:absolute;s
+    color:whitesmoke;
+    
+}
+.login-form button {
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 40%;
+
+}
+
+

@@ -1,0 +1,2 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                    NAMES
+2593f9639e72        midtermapp          "/bin/sh -c 'python …"   52 seconds ago      Up 50 seconds       0.0.0.0:5050->5050/tcp   midtermrunning
